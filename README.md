@@ -14,6 +14,6 @@
 
 ### 문제풀이 후 github 업로드
 1. 백준 허브 크롬 확장 도구 설치
-  [백준허브] : https://github.com/BaekjoonHub/BaekjoonHub
+    - [백준허브] : https://github.com/BaekjoonHub/BaekjoonHub
 2. 문제 풀이 후 제출
 3. 파일명 수정 (문제이름 -> 문제이름_본인이름)
